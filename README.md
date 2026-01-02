@@ -1,4 +1,6 @@
-This script was made for you by **Sawwik**.
+<h3><bold>This script was made for you by Sawwik.</bold></h3>
+
+<img src='https://github.com/user-attachments/assets/b4d00abc-fb92-45a9-b40a-67e20d486fa2' alt='' style='width:15vw'>
 
 Voluntary support: [Coffee](https://buymeacoffee.com/sawwik)
 
@@ -17,3 +19,5 @@ Install done. Have Fun !!
 
 # 📹 Video
 https://streamable.com/ed9uq0
+
+i will not make any new updates
