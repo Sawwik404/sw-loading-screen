@@ -1,0 +1,60 @@
+
+<!-- 
+
+.d8888.  .d8b.  db   d8b   db db   d8b   db d888888b db   dD 
+88'  YP d8' `8b 88   I8I   88 88   I8I   88   `88'   88 ,8P' 
+`8bo.   88ooo88 88   I8I   88 88   I8I   88    88    88,8P   
+  `Y8b. 88~~~88 Y8   I8I   88 Y8   I8I   88    88    88`8b   
+db   8D 88   88 `8b d8'8b d8' `8b d8'8b d8'   .88.   88 `88. 
+`8888Y' YP   YP  `8b8' `8d8'   `8b8' `8d8'  Y888888P YP   YD  
+ 
+-->
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="config.js"></script>
+    <script src="assets/app.js"></script>
+</head>
+<body>
+    <div class="vignette"></div>
+    <div class="testik">
+        <div class="background-image"></div>
+    </div>
+    <div id="notify-container"></div>
+    <div class="team">
+        <div class="staff">
+            <i class="fa-solid fa-crown"></i>
+            <h1>Staff Team</h1>
+        </div>
+        <div class="staff_team"></div>
+    </div>
+    <input type="range" min="1" max="25" value="100" class="slider" id="myRange" step="1"/>
+    <div class="music-player">
+        <div class="song-image">
+            <img id="song-image-jpg" src="assets/images/roll.webp" alt="Song Image">
+        </div>
+        <div class="song-info">
+            <div class="song-title"></div>
+            <div class="song-artist"></div>
+        </div>
+        <div class="controls">
+            <button id="prev-btn" class="control-btn">
+                <i class="fa-solid fa-backward-step"></i>
+            </button>
+            
+            <button id="play-btn" class="control-btn">
+                <i id="play-icon" class="fa-solid fa-play"></i>
+            </button>
+            
+            <button id="next-btn" class="control-btn">
+                <i class="fa-solid fa-forward-step"></i>
+            </button>
+        </div>
+    </div>
+</body>
+</html>
