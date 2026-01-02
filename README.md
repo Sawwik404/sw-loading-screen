@@ -7,7 +7,8 @@ Voluntary support: [Coffee](https://buymeacoffee.com/sawwik)
 
 # 💾 How to Install
 Download file and drop in your “resources” folder
-Add to your server.cfg file: ensure bd_loadingscreen
+
+Add to your server.cfg file: ensure sw-loading-screen
 Install done. Have Fun !!
 
 # ⚙️ Config
